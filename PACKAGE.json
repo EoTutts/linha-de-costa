@@ -1,0 +1,10 @@
+{
+  "slug": "linha-de-costa",
+  "id": "linha-de-costa",
+  "name": "Linha de Costa",
+  "version": "0.1.1",
+  "tag": "v0.1.1-distribution.20261106",
+  "download": "https://github.com/EoTutts/linha-de-costa/releases/download/v0.1.1-distribution.20261106/linha-de-costa-linux-arm64.zip",
+  "package_sha256": "0705fe6e42f08ed799f4d3e1f65bc8df9eaf78f828d53c09252c8b84c8f19649",
+  "package_bytes": 516957
+}

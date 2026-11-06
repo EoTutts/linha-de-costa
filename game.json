@@ -1,0 +1,12 @@
+{
+  "id": "linha-de-costa",
+  "name": "Linha de Costa",
+  "description": "Corrida arcade pelo litoral, guiada pelo som.",
+  "version": "0.1.1",
+  "contract": 1,
+  "runtime": "dotnet",
+  "exec": "LinhaDeCosta.dll",
+  "languages": [
+    "pt-BR"
+  ]
+}
